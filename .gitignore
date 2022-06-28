@@ -1,5 +1,5 @@
-file.log
-file.db
+*.log
+*.db
 bin/
 
 
